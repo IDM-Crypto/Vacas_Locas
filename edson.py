@@ -1,2 +1,0 @@
-print("pene")
-print("pilin")
